@@ -1,0 +1,50 @@
+[
+    {
+        "email": "enzobianco663@gmail.com",
+        "itens": [
+            {
+                "nome": "REGATA STEPHEN CURRY - #30",
+                "descricao": "MIRA LETAL E MAGIA DOS 3 PONTOS EM UMA REGATA LENDÁRIA!",
+                "preco": 299.9,
+                "estoque": 20,
+                "categoria": "BASQUETE",
+                "subcategoria": "REGATAS DE TIMES DA NBA",
+                "subsubcategoria": "GOLDEN STATE WARRIORS",
+                "id": "P3311",
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "email": "enzobianco663@gmail.com",
+        "itens": [
+            {
+                "nome": "REGATA STEPHEN CURRY - #30",
+                "descricao": "MIRA LETAL E MAGIA DOS 3 PONTOS EM UMA REGATA LENDÁRIA!",
+                "preco": 299.9,
+                "estoque": 19,
+                "categoria": "BASQUETE",
+                "subcategoria": "REGATAS DE TIMES DA NBA",
+                "subsubcategoria": "GOLDEN STATE WARRIORS",
+                "id": "P3311",
+                "quantidade": 1
+            }
+        ]
+    },
+    {
+        "email": "enzobianco663@gmail.com",
+        "itens": [
+            {
+                "nome": "BOLA DE BASQUETE ADIDAS PRO CONTROL",
+                "descricao": "DOMINE O JOGO COM ESTILO E CONTROLE CIRÚRGICO. A QUADRA VAI TE OBEDECER!",
+                "preco": 379.9,
+                "estoque": 9,
+                "categoria": "BASQUETE",
+                "subcategoria": "BOLAS DE BASQUETE",
+                "subsubcategoria": "ADIDAS",
+                "id": "P3195",
+                "quantidade": 1
+            }
+        ]
+    }
+]

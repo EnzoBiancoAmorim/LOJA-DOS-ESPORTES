@@ -1,0 +1,2062 @@
+[
+    {
+        "nome": "CAMISA REAL MADRID 2025",
+        "descricao": "A MAJESTADE MERENGUE TRADUZIDA EM UM MANTO DE PURA GRANDEZA!",
+        "preco": 349.9,
+        "estoque": 20,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "ADIDAS",
+        "id": "P3073"
+    },
+    {
+        "nome": "CAMISA BARCELONA 2025",
+        "descricao": "TRADIÇÃO, ARTE E GLÓRIA EM CADA FIO DO MANTO CATALÃO!",
+        "preco": 349.9,
+        "estoque": 24,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "NIKE",
+        "id": "P3401"
+    },
+    {
+        "nome": "CAMISA MANCHESTER CITY 2025",
+        "descricao": "ELEGÂNCIA E DOMÍNIO DO JOGO EM UM AZUL CELESTE BRILHANTE!",
+        "preco": 349.9,
+        "estoque": 33,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "PUMA",
+        "id": "P2158"
+    },
+    {
+        "nome": "CAMISA ARSENAL 2025",
+        "descricao": "VISTA-SE COMO UM VERADEIRO GUNNER!",
+        "preco": 209.9,
+        "estoque": 15,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "ADIDAS",
+        "id": "P2729"
+    },
+    {
+        "nome": "CAMISA TOTTENHAM 2025",
+        "descricao": "UM MANTO LIMPO E ELEGANTE COM A TRADIÇÃO DO NORTE DE LONDRES!",
+        "preco": 328.9,
+        "estoque": 21,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "NIKE",
+        "id": "P1336"
+    },
+    {
+        "nome": "CAMISA BAYERN DE MUNIQUE 2026",
+        "descricao": "FORÇA BÁVARA EM UM MANTO VERMELHO DE PURO RESPEITO!",
+        "preco": 359.99,
+        "estoque": 23,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "ADIDAS",
+        "id": "P7360"
+    },
+    {
+        "nome": "CAMISA BORUSSIA DORTMUND",
+        "descricao": "O AMARELO MAIS INTENSO DA ALEMANHA PARA OS VERDADEIROS FÃS!",
+        "preco": 349.9,
+        "estoque": 13,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "PUMA",
+        "id": "P7398"
+    },
+    {
+        "nome": "CAMISA PSG 2025",
+        "descricao": "GLAMOUR FRANCÊS COM UMA PEGADA FUTEBOLÍSTICA AVASSALADORA!",
+        "preco": 349.9,
+        "estoque": 10,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "NIKE",
+        "id": "P5430"
+    },
+    {
+        "nome": "CAMISA OLYMPIQUE DE MARSELHA 2025",
+        "descricao": "UM CLUBE TRADICIONAL, UM MANTO QUE TRANSPIRA RAÇA E ORGULHO!",
+        "preco": 229.89,
+        "estoque": 11,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "PUMA",
+        "id": "P3337"
+    },
+    {
+        "nome": "CAMISA JUVENTUS 2025",
+        "descricao": "O CLÁSSICO PRETO E BRANCO ITALIANO EM SUA FORMA MAIS NOBRE!",
+        "preco": 249.9,
+        "estoque": 16,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "ADIDAS",
+        "id": "P3765"
+    },
+    {
+        "nome": "CAMISA MILAN 2025",
+        "descricao": "O MANTO ROSSONERO, QUE É SINÔNIMO DE GLÓRIA E PAIXÃO!",
+        "preco": 329.79,
+        "estoque": 21,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "PUMA",
+        "id": "P2959"
+    },
+    {
+        "nome": "CAMISA INTER DE MILÃO 2025",
+        "descricao": "O AZUL E PRETO MAIS RESPEITADO DOS CAMPOS EUROPÉIOS!",
+        "preco": 349.9,
+        "estoque": 13,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "NIKE",
+        "id": "P1524"
+    },
+    {
+        "nome": "CAMISA LAZIO 2025",
+        "descricao": "O AZUL CELESTE QUE ENALTECE O ORGULHO DA CAPITAL ITALIANA!",
+        "preco": 219.8,
+        "estoque": 6,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "MIZUNO",
+        "id": "P1300"
+    },
+    {
+        "nome": "CAMISA ATLÉTICO DE MADRID 2025",
+        "descricao": "UM MANTO RAÇUDO COM A GARRA DE UM VERDADEIRO COLCHONERO!",
+        "preco": 299.9,
+        "estoque": 12,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "NIKE",
+        "id": "P2543"
+    },
+    {
+        "nome": "CAMISA SEVILLA 2025",
+        "descricao": "A ELEGÂNCIA DO FUTEBOL ANDALUZ EM CADA DETALHE DO MANTO!",
+        "preco": 219.69,
+        "estoque": 11,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "CASTORE",
+        "id": "P1530"
+    },
+    {
+        "nome": "CAMISA VALENCIA 2025",
+        "descricao": "A FORÇA DO MEDITERRÂNEO EM UM MANTO DE TRADIÇÃO!",
+        "preco": 219.49,
+        "estoque": 10,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "PUMA",
+        "id": "P3713"
+    },
+    {
+        "nome": "CAMISA AJAX 2025",
+        "descricao": "O CLUBE FORMADOR DE LENDAS EM UMA CAMISA HISTÓRICA!",
+        "preco": 239.89,
+        "estoque": 17,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "ADIDAS",
+        "id": "P1986"
+    },
+    {
+        "nome": "CAMISA PORTO 2025",
+        "descricao": "AS FAIXAS AZUIS QUE DOMINAM PORTUGAL COM ORGULHO E TÉCNICA!",
+        "preco": 219.8,
+        "estoque": 13,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "NEW BALANCE",
+        "id": "P5496"
+    },
+    {
+        "nome": "CAMISA SPORTING 2025",
+        "descricao": "O VERDE E BRANCO DE UM DOS MAIORES CLUBES DE LISBOA!",
+        "preco": 239.59,
+        "estoque": 12,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "NIKE",
+        "id": "P3367"
+    },
+    {
+        "nome": "CAMISA BENFICA 2025",
+        "descricao": "O ENCARNADO DA ÁGUIA MAIS GLORIOSA DE PORTUGAL!",
+        "preco": 199.89,
+        "estoque": 13,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "ADIDAS",
+        "id": "P9599"
+    },
+    {
+        "nome": "CAMISA CELTIC 2025",
+        "descricao": "AS LISTRAS VERDES MAIS EMBLEMÁTICAS DO FUTEBOL ESCOCÊS!",
+        "preco": 199.9,
+        "estoque": 21,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "ADIDAS",
+        "id": "P1414"
+    },
+    {
+        "nome": "CAMISA RANGERS 2025",
+        "descricao": "O AZUL REPLETO DE FÚRIA E GLÓRIA DO MAIOR CLUBE DA ESCÓCIA!",
+        "preco": 199.89,
+        "estoque": 10,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "CASTORE",
+        "id": "P2969"
+    },
+    {
+        "nome": "CAMISA GALATASARAY 2025",
+        "descricao": "UM VERMELHO E AMARELO QUE INSPIRA A PAIXÃO TURCA EM CAMPO!",
+        "preco": 349.9,
+        "estoque": 13,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "PUMA",
+        "id": "P2060"
+    },
+    {
+        "nome": "CAMISA FENERBAHÇE 2025",
+        "descricao": "TRADIÇÃO E INTENSIDADE EM UM MANTO QUE MOVE MULTIDÕES!",
+        "preco": 219.89,
+        "estoque": 23,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "PUMA",
+        "id": "P1614"
+    },
+    {
+        "nome": "CAMISA PALMEIRAS 2025",
+        "descricao": "A CAMISA MAIS PESADA, E DO MAIOR CLUBE DO BRASIL, VOCÊ ENCONTRA AQUI!",
+        "preco": 399.99,
+        "estoque": 44,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "PUMA",
+        "id": "P1311"
+    },
+    {
+        "nome": "CAMISA FLAMENGO 2025",
+        "descricao": "SINTA A ENERGIA DA NAÇÃO RUBRO-NEGRA COM ESTA CAMISA IMPONENTE!",
+        "preco": 149.9,
+        "estoque": 12,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "ADIDAS",
+        "id": "P1523"
+    },
+    {
+        "nome": "CAMISA CORINTHIANS 2025",
+        "descricao": "VISTA O MANTO DO TIMÃO E ENTRE EM CAMPO COM RAÇA E DETERMINAÇÃO!",
+        "preco": 129.39,
+        "estoque": 2,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "NIKE",
+        "id": "P3052"
+    },
+    {
+        "nome": "CAMISA SÃO PAULO 2025",
+        "descricao": "EXPRESSE A GLÓRIA TRICOLOR COM ESTA CAMISA REPLETA DE HISTÓRIA!",
+        "preco": 219.99,
+        "estoque": 12,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "ADIDAS",
+        "id": "P1018"
+    },
+    {
+        "nome": "CAMISA VASCO 2025",
+        "descricao": "UM TRAJE CARREGADO DE TRADIÇÃO E AMOR CRUZMALTINO!",
+        "preco": 279.89,
+        "estoque": 21,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "KAPPA",
+        "id": "P4703"
+    },
+    {
+        "nome": "CAMISA CRUZEIRO 2025",
+        "descricao": "A CAMISA CELESTE QUE TRADUZ A GRANDEZA DOS CÉUS MINEIROS!",
+        "preco": 219.69,
+        "estoque": 21,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "ADIDAS",
+        "id": "P2722"
+    },
+    {
+        "nome": "CAMISA GRÊMIO 2025",
+        "descricao": "UM MANTO TRICOLOR PARA QUEM NASCEU PARA VENCER, DO IMORTAL!",
+        "preco": 215.99,
+        "estoque": 13,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "UMBRO",
+        "id": "P1717"
+    },
+    {
+        "nome": "CAMISA INTERNACIONAL 2025",
+        "descricao": "A CAMISA QUE ENCARNOU O COLORADO DE ALMA GUERREIRA!",
+        "preco": 219.89,
+        "estoque": 12,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "ADIDAS",
+        "id": "P1701"
+    },
+    {
+        "nome": "CAMISA BOTAFOGO 2025",
+        "descricao": "UMA CAMISA QUE BRILHA COMO A ESTRELA SOLITÁRIA!",
+        "preco": 219.9,
+        "estoque": 14,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "REEBOK",
+        "id": "P2393"
+    },
+    {
+        "nome": "CAMISA ATLÉTICO MINEIRO 2025",
+        "descricao": "O PRETO E BRANCO MAIS INTENSO DO BRASIL EM UM ÚNICO MANTO!",
+        "preco": 235.79,
+        "estoque": 12,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "ADIDAS",
+        "id": "P2540"
+    },
+    {
+        "nome": "CAMISA BAHIA 2025",
+        "descricao": "UM MANTO TRICOLOR QUE CANTA AS GLÓRIAS DO NORDESTE!",
+        "preco": 237.79,
+        "estoque": 23,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "PUMA",
+        "id": "P3306"
+    },
+    {
+        "nome": "CAMISA FORTALEZA 2025",
+        "descricao": "EXPLODA DE ORGULHO COM AS CORES DO LEÃO DO PICI!",
+        "preco": 199.9,
+        "estoque": 21,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "NIKE",
+        "id": "P2207"
+    },
+    {
+        "nome": "CAMISA CEARÁ  2025",
+        "descricao": "SINTA A VIBRAÇÃO DO VOZÃO COM ESTA CAMISA CHEIA DE TRADIÇÃO!",
+        "preco": 214.99,
+        "estoque": 16,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "PUMA",
+        "id": "P3284"
+    },
+    {
+        "nome": "CAMISA SANTOS 2025",
+        "descricao": "O MANTO SAGRADO DO TIME QUE REVELA GÊNIOS DO FUTEBOL!",
+        "preco": 239.99,
+        "estoque": 23,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CAMISAS DE TIMES",
+        "subsubcategoria": "UMBRO",
+        "id": "P2784"
+    },
+    {
+        "nome": "CHUTEIRA NIKE MERCURIAL VAPOR 15",
+        "descricao": "EXPLODA EM VELOCIDADE! ESSA NIKE É COMO UM FOGUETE NOS SEUS PÉS!",
+        "preco": 599.9,
+        "estoque": 12,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "NIKE",
+        "id": "P7144"
+    },
+    {
+        "nome": "CHUTEIRA PUMA FUTURE Z 1.4",
+        "descricao": "AGILIDADE FELINA COM EXPLOSÃO NOS PÉS – ESSA PUMA É PURA TECNOLOGIA!",
+        "preco": 579.9,
+        "estoque": 8,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "PUMA",
+        "id": "P2805"
+    },
+    {
+        "nome": "CHUTEIRA MIZUNO MORELIA NEO III",
+        "descricao": "ELEGÂNCIA JAPONESA, PRECISÃO SAMURAI – A MIZUNO É SUTIL, MAS MORTAL!",
+        "preco": 499.9,
+        "estoque": 5,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "MIZUNO",
+        "id": "P1243"
+    },
+    {
+        "nome": "CHUTEIRA UMBRO VELOCITA ALURA",
+        "descricao": "A ARTE BRITÂNICA DO CONTRA-ATAQUE EM CADA ARRANCADA!",
+        "preco": 429.9,
+        "estoque": 9,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "UMBRO",
+        "id": "P1087"
+    },
+    {
+        "nome": "CHUTEIRA NIKE PHANTOM GX ELITE",
+        "descricao": "INVISÍVEL PARA OS ZAGUEIROS, DECISIVA NOS DETALHES!",
+        "preco": 699.9,
+        "estoque": 6,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "NIKE",
+        "id": "P7146"
+    },
+    {
+        "nome": "CHUTEIRA ADIDAS COPA PURE",
+        "descricao": "TOQUE DE CLASSE, ESTILO RETRÔ COM SANGUE QUENTE!",
+        "preco": 549.9,
+        "estoque": 14,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "ADIDAS",
+        "id": "P1004"
+    },
+    {
+        "nome": "CHUTEIRA PUMA ULTRA ULTIMATE",
+        "descricao": "PISA FUNDO! A CHUTEIRA QUE FAZ VOCÊ DESAPARECER NA CORRIDA!",
+        "preco": 599.9,
+        "estoque": 7,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "PUMA",
+        "id": "P3370"
+    },
+    {
+        "nome": "CHUTEIRA NEW BALANCE FURON V7",
+        "descricao": "ESTILO, TECNOLOGIA E PRECISÃO – A CHUTEIRA DOS VISIONÁRIOS!",
+        "preco": 519.9,
+        "estoque": 4,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "NEW BALANCE",
+        "id": "P2583"
+    },
+    {
+        "nome": "CHUTEIRA ASICS DS LIGHT X-FLY",
+        "descricao": "LEVE COMO O VENTO, RÁPIDA COMO UM RELÂMPAGO!",
+        "preco": 489.9,
+        "estoque": 5,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "ASICS",
+        "id": "P1117"
+    },
+    {
+        "nome": "CHUTEIRA NIKE TIEMPO LEGEND 10",
+        "descricao": "PURA CLASSE NOS PÉS! DOMINE COMO OS MAESTROS DA BOLA!",
+        "preco": 659.9,
+        "estoque": 10,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "NIKE",
+        "id": "P3049"
+    },
+    {
+        "nome": "CHUTEIRA ADIDAS X CRAZYFAST",
+        "descricao": "VIRADA DE JOGO COM UM TOQUE DE LOUCURA – ACELERA E NÃO OLHA PRA TRÁS!",
+        "preco": 619.9,
+        "estoque": 13,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "ADIDAS",
+        "id": "P9000"
+    },
+    {
+        "nome": "CHUTEIRA PUMA KING ULTIMATE",
+        "descricao": "MAJESTADE DO CAMPO – ELEGANTE COMO UM REI, LETAL COMO UM LEÃO!",
+        "preco": 559.9,
+        "estoque": 6,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "PUMA",
+        "id": "P2364"
+    },
+    {
+        "nome": "CHUTEIRA MIZUNO MONARCIDA NEO II",
+        "descricao": "CONFORTO NINJA PARA QUEM CORTA DEFESAS COMO KATANA!",
+        "preco": 449.9,
+        "estoque": 11,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "MIZUNO",
+        "id": "P2097"
+    },
+    {
+        "nome": "CHUTEIRA UNDER ARMOUR CLONE MAGNETICO",
+        "descricao": "GRUDA NA PELE E NO CAMPO – UMA EXTENSÃO DO SEU CORPO!",
+        "preco": 409.9,
+        "estoque": 7,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "UNDER ARMOUR",
+        "id": "P2338"
+    },
+    {
+        "nome": "CHUTEIRA DIADORA BRASIL ITALY OG",
+        "descricao": "AUTENTICIDADE ITALIANA, TOQUE DE ARTISTA E ESTILO DE ÍDOLO!",
+        "preco": 579.9,
+        "estoque": 3,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "DIADORA",
+        "id": "P2726"
+    },
+    {
+        "nome": "CHUTEIRA JOMA CHAMPION FLEX",
+        "descricao": "DESIGN ESPANHOL PARA CAMPEÕES NATOS – FLEXÍVEL, LEVE E LETAL!",
+        "preco": 389.9,
+        "estoque": 8,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "JOMA",
+        "id": "P3238"
+    },
+    {
+        "nome": "CHUTEIRA PENALTY S11 R2",
+        "descricao": "O BRASIL EM CAMPO – TRADIÇÃO E PEGADA QUE FAZEM HISTÓRIA!",
+        "preco": 319.9,
+        "estoque": 10,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "PENALTY",
+        "id": "P1118"
+    },
+    {
+        "nome": "CHUTEIRA KAPPA SPEED 5",
+        "descricao": "ESTILO ITALIANO COM A PRESSA DE UM CONTRA-ATAQUE FULMINANTE!",
+        "preco": 299.9,
+        "estoque": 9,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "KAPPA",
+        "id": "P1607"
+    },
+    {
+        "nome": "CHUTEIRA TOPPER DOMINATOR 3",
+        "descricao": "CLÁSSICA, FIRME E SEM FRESCURA – FEITA PRA QUEM NÃO PERDOA!",
+        "preco": 259.9,
+        "estoque": 12,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "TOPPER",
+        "id": "P3237"
+    },
+    {
+        "nome": "CHUTEIRA FILA ATOMIC PRO",
+        "descricao": "ENERGIA ITALIANA PARA EXPLODIR EM CAMPO – VOCÊ NO MODO FÚRIA!",
+        "preco": 289.9,
+        "estoque": 6,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "FILA",
+        "id": "P1780"
+    },
+    {
+        "nome": "CHUTEIRA PENALTY MAX 500",
+        "descricao": "TRADIÇÃO NACIONAL E TECNOLOGIA QUE FALA ALTO – DEIXA OS GRINGOS PRA TRÁS!",
+        "preco": 309.9,
+        "estoque": 7,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "PENALTY",
+        "id": "P1252"
+    },
+    {
+        "nome": "CHUTEIRA NIKE ZOOM MERCURIAL",
+        "descricao": "PISA NO ACELERADOR E VOA – ESSA CHUTEIRA É PÓLVORA PURA!",
+        "preco": 719.9,
+        "estoque": 6,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "NIKE",
+        "id": "P2051"
+    },
+    {
+        "nome": "CHUTEIRA ADIDAS PREDATOR ACCURACY",
+        "descricao": "PRECISÃO CIRÚRGICA, CHUTE MILIMÉTRICO – OS ZAGUEIROS SÓ OBSERVAM!",
+        "preco": 689.9,
+        "estoque": 7,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "ADIDAS",
+        "id": "P4205"
+    },
+    {
+        "nome": "CHUTEIRA PUMA ONE 5.1",
+        "descricao": "UMA SÓ CHUTEIRA PRA DOMINAR TUDO – TOQUE, FORÇA E VELOCIDADE!",
+        "preco": 559.9,
+        "estoque": 5,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "PUMA",
+        "id": "P2892"
+    },
+    {
+        "nome": "CHUTEIRA MIZUNO BASARA 103",
+        "descricao": "RASTREIO IMPOSSÍVEL – QUEM USA MIZUNO SOME EM CAMPO!",
+        "preco": 479.9,
+        "estoque": 7,
+        "categoria": "FUTEBOL",
+        "subcategoria": "CHUTEIRAS",
+        "subsubcategoria": "MIZUNO",
+        "id": "P8248"
+    },
+    {
+        "nome": "BOLA NIKE FLIGHT PRO",
+        "descricao": "VOA COMO UM SONHO, CHEGA COMO UM FOGUETE – A PRECISÃO QUE O GOL MERECE!",
+        "preco": 449.9,
+        "estoque": 12,
+        "categoria": "FUTEBOL",
+        "subcategoria": "BOLAS DE FUTEBOL",
+        "subsubcategoria": "NIKE",
+        "id": "P3187"
+    },
+    {
+        "nome": "BOLA ADIDAS FUSSBALLLIEBE PRO",
+        "descricao": "A PAIXÃO PELO FUTEBOL EM FORMA DE BOLA – OFICIAL, TECNOLÓGICA E IRRESISTÍVEL!",
+        "preco": 479.9,
+        "estoque": 10,
+        "categoria": "FUTEBOL",
+        "subcategoria": "BOLAS DE FUTEBOL",
+        "subsubcategoria": "ADIDAS",
+        "id": "P2694"
+    },
+    {
+        "nome": "BOLA PUMA ORBITA 1 LA LIGA",
+        "descricao": "A RAINHA DOS CAMPOS ESPANHÓIS – GIRO, POTÊNCIA E MUITO ESTILO!",
+        "preco": 459.9,
+        "estoque": 8,
+        "categoria": "FUTEBOL",
+        "subcategoria": "BOLAS DE FUTEBOL",
+        "subsubcategoria": "PUMA",
+        "id": "P1873"
+    },
+    {
+        "nome": "BOLA NIKE PREMIER TEAM",
+        "descricao": "TOQUE FIRME, TRAJETÓRIA LIMPA – A ESCOLHA DOS TREINOS DE CRAQUE!",
+        "preco": 299.9,
+        "estoque": 9,
+        "categoria": "FUTEBOL",
+        "subcategoria": "BOLAS DE FUTEBOL",
+        "subsubcategoria": "NIKE",
+        "id": "P6683"
+    },
+    {
+        "nome": "BOLA ADIDAS UCL PRO ISTANBUL",
+        "descricao": "A BOLA DAS NOITES HISTÓRICAS – BRILHA COMO OS ASTROS DA CHAMPIONS!",
+        "preco": 489.9,
+        "estoque": 6,
+        "categoria": "FUTEBOL",
+        "subcategoria": "BOLAS DE FUTEBOL",
+        "subsubcategoria": "ADIDAS",
+        "id": "P2954"
+    },
+    {
+        "nome": "BOLA PUMA FINAL 1 STATEMENT",
+        "descricao": "QUEM DISSE QUE BOLA NÃO FAZ DECLARAÇÃO? ESSA PUMA GRITA GOL!",
+        "preco": 399.9,
+        "estoque": 7,
+        "categoria": "FUTEBOL",
+        "subcategoria": "BOLAS DE FUTEBOL",
+        "subsubcategoria": "PUMA",
+        "id": "P2224"
+    },
+    {
+        "nome": "BOLA NIKE ACADEMY TEAM",
+        "descricao": "IDEAL PRA APRENDER, TREINAR E FAZER GOLAÇO COM CLASSE!",
+        "preco": 239.9,
+        "estoque": 11,
+        "categoria": "FUTEBOL",
+        "subcategoria": "BOLAS DE FUTEBOL",
+        "subsubcategoria": "NIKE",
+        "id": "P1657"
+    },
+    {
+        "nome": "BOLA ADIDAS COPA ARGENTINA",
+        "descricao": "TRADIÇÃO LATINA EM ALTA ROTAÇÃO – PRA QUEM NASCEU COM O TANGO NOS PÉS!",
+        "preco": 289.9,
+        "estoque": 12,
+        "categoria": "FUTEBOL",
+        "subcategoria": "BOLAS DE FUTEBOL",
+        "subsubcategoria": "ADIDAS",
+        "id": "P1068"
+    },
+    {
+        "nome": "BOLA PUMA FUTURE TRAINER",
+        "descricao": "A COMPANHEIRA DE TREINO DOS FANTASMAS DE DEFESA – ELA NÃO ERRA ROTA!",
+        "preco": 219.9,
+        "estoque": 13,
+        "categoria": "FUTEBOL",
+        "subcategoria": "BOLAS DE FUTEBOL",
+        "subsubcategoria": "PUMA",
+        "id": "P4739"
+    },
+    {
+        "nome": "BOLA NIKE PITCH TRAINING",
+        "descricao": "SIMPLES, EFICIENTE E REDONDA COMO UMA BOA PIADA DE VESTIÁRIO!",
+        "preco": 179.9,
+        "estoque": 12,
+        "categoria": "FUTEBOL",
+        "subcategoria": "BOLAS DE FUTEBOL",
+        "subsubcategoria": "NIKE",
+        "id": "P2409"
+    },
+    {
+        "nome": "BOLA ADIDAS AL RIHLA LEAGUE",
+        "descricao": "JORNADA COMEÇA AQUI – A BOLA DA COPA PARA QUEM NÃO ACEITA JOGAR MENOS!",
+        "preco": 319.9,
+        "estoque": 5,
+        "categoria": "FUTEBOL",
+        "subcategoria": "BOLAS DE FUTEBOL",
+        "subsubcategoria": "ADIDAS",
+        "id": "P1655"
+    },
+    {
+        "nome": "BOLA PUMA BIG CAT STREET",
+        "descricao": "FEITA PRA ENCANTAR NAS RUAS – UMA SELVAGEM NA ASFALTO ARENA!",
+        "preco": 159.9,
+        "estoque": 12,
+        "categoria": "FUTEBOL",
+        "subcategoria": "BOLAS DE FUTEBOL",
+        "subsubcategoria": "PUMA",
+        "id": "P3340"
+    },
+    {
+        "nome": "BOLA NIKE STRIKE PREMIER",
+        "descricao": "EXPLODE NA CHUTEIRA, ESTRELA NOS GOLS – A BOLA DOS SONHOS DE CRAQUE!",
+        "preco": 279.9,
+        "estoque": 5,
+        "categoria": "FUTEBOL",
+        "subcategoria": "BOLAS DE FUTEBOL",
+        "subsubcategoria": "NIKE",
+        "id": "P1743"
+    },
+    {
+        "nome": "BOLA ADIDAS LEAGUE JABULANI TRIBUTE",
+        "descricao": "A LENDA ESTÁ DE VOLTA – ROLA COMO MÚSICA, DECIDE COMO UM HIT!",
+        "preco": 399.9,
+        "estoque": 8,
+        "categoria": "FUTEBOL",
+        "subcategoria": "BOLAS DE FUTEBOL",
+        "subsubcategoria": "ADIDAS",
+        "id": "P2522"
+    },
+    {
+        "nome": "BOLA PUMA FINAL 1 HYBRID",
+        "descricao": "RESISTÊNCIA DE FERRO, TOQUE DE SEDA – A FERA EQUILIBRADA DO CAMPO!",
+        "preco": 349.9,
+        "estoque": 12,
+        "categoria": "FUTEBOL",
+        "subcategoria": "BOLAS DE FUTEBOL",
+        "subsubcategoria": "PUMA",
+        "id": "P3120"
+    },
+    {
+        "nome": "NIKE LEBRON 21",
+        "descricao": "DOMINE A QUADRA COM A FORÇA DE UM REI!",
+        "preco": 799.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P2262"
+    },
+    {
+        "nome": "NIKE KYRIE FLYTRAP 6",
+        "descricao": "EXPLOSÃO NOS CORTES, MAGIA NOS MOVIMENTOS!",
+        "preco": 649.9,
+        "estoque": 15,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P3313"
+    },
+    {
+        "nome": "NIKE KD 16",
+        "descricao": "PRECISÃO DE UM SNIPER, ESTILO DE UM MVP!",
+        "preco": 749.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P2183"
+    },
+    {
+        "nome": "NIKE GT JUMP 2",
+        "descricao": "SALTE COMO SE A GRAVIDADE FOSSE SÓ UM DETALHE!",
+        "preco": 869.9,
+        "estoque": 4,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P3234"
+    },
+    {
+        "nome": "NIKE JA 1",
+        "descricao": "VELOCIDADE + ESTILO = DOMÍNIO NAS AÇÕES!",
+        "preco": 699.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P1779"
+    },
+    {
+        "nome": "NIKE LUKA 2",
+        "descricao": "PARA QUEM VÊ O JOGO EM CÂMERA LENTA, MAS JOGA NO MODO LENDÁRIO!",
+        "preco": 729.9,
+        "estoque": 6,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P2169"
+    },
+    {
+        "nome": "NIKE BOOK 1",
+        "descricao": "O PRIMEIRO CAPÍTULO DE UMA LENDA EM CONSTRUÇÃO!",
+        "preco": 759.9,
+        "estoque": 13,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P1899"
+    },
+    {
+        "nome": "NIKE ZOOM FREAK 5",
+        "descricao": "POTÊNCIA GREGA PARA ENTERRADAS MONSTRUOSAS!",
+        "preco": 789.9,
+        "estoque": 34,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P9861"
+    },
+    {
+        "nome": "NIKE PG 6",
+        "descricao": "MOVIMENTO SUAVE, FINALIZAÇÃO CIRÚRGICA!",
+        "preco": 699.9,
+        "estoque": 13,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P6395"
+    },
+    {
+        "nome": "NIKE AIR FLIGHT",
+        "descricao": "UM CLÁSSICO QUE AINDA FAZ ESTRAGO NAS QUADRAS!",
+        "preco": 599.9,
+        "estoque": 16,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P7071"
+    },
+    {
+        "nome": "NIKE AIR FORCE 1 MID",
+        "descricao": "DA RUA PRA QUADRA COM MUITO ESTILO!",
+        "preco": 549.9,
+        "estoque": 23,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P4397"
+    },
+    {
+        "nome": "NIKE HUSTLE D 10",
+        "descricao": "TÊNIS DE GUERREIRO! NADA DE FRESCURA!",
+        "preco": 499.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P1246"
+    },
+    {
+        "nome": "NIKE ZOOM RIZE 2",
+        "descricao": "ALTITUDE MÁXIMA COM CONFIANÇA!",
+        "preco": 799.9,
+        "estoque": 23,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P9177"
+    },
+    {
+        "nome": "NIKE HYPERDUNK X",
+        "descricao": "RESISTÊNCIA E AGILIDADE PRA 4 QUARTOS DE GUERRA!",
+        "preco": 849.9,
+        "estoque": 3,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P2533"
+    },
+    {
+        "nome": "NIKE ZOOM REV 2018",
+        "descricao": "RELIQUIA MODERNA PRA QUEM SABE JOGAR COM HISTÓRIA!",
+        "preco": 649.9,
+        "estoque": 31,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P2742"
+    },
+    {
+        "nome": "NIKE AIR ZOOM BB NXT",
+        "descricao": "PISADA MACIA, JOGO BRUTAL!",
+        "preco": 889.9,
+        "estoque": 7,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P3183"
+    },
+    {
+        "nome": "NIKE PRECISION 6",
+        "descricao": "LEVES COMO PLUMA, RÁPIDOS COMO FLASH!",
+        "preco": 599.9,
+        "estoque": 13,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P1222"
+    },
+    {
+        "nome": "NIKE TEAM HUSTLE QUICK",
+        "descricao": "NÃO É SÓ SOBRE VELOCIDADE, É SOBRE VONTADE!",
+        "preco": 559.9,
+        "estoque": 6,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P8188"
+    },
+    {
+        "nome": "NIKE AIR VERSITILE III",
+        "descricao": "PARA OS QUE JOGAM DE TUDO, EM QUALQUER POSIÇÃO!",
+        "preco": 589.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P7794"
+    },
+    {
+        "nome": "NIKE COURT VISION MID",
+        "descricao": "VISÃO DE JOGO ATÉ NOS PÉS!",
+        "preco": 619.9,
+        "estoque": 11,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P1537"
+    },
+    {
+        "nome": "PUMA MB.02",
+        "descricao": "LAMELLO STYLE – UM TÊNIS, MIL MOVIMENTOS!",
+        "preco": 749.9,
+        "estoque": 13,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "PUMA",
+        "id": "P1646"
+    },
+    {
+        "nome": "PUMA FUSION NITRO",
+        "descricao": "ABSURDAMENTE MACIO, TOTALMENTE EXPLOSIVO!",
+        "preco": 699.9,
+        "estoque": 6,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "PUMA",
+        "id": "P1575"
+    },
+    {
+        "nome": "PUMA COURT RIDER 2",
+        "descricao": "FLOWSUAVEMENTE ENTRE O ASFALTO E A ARENA!",
+        "preco": 639.9,
+        "estoque": 14,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "PUMA",
+        "id": "P2899"
+    },
+    {
+        "nome": "PUMA MB.03",
+        "descricao": "A VERSÃO ATUALIZADA DA LOUCURA LAMELLO!",
+        "preco": 779.9,
+        "estoque": 5,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "PUMA",
+        "id": "P4973"
+    },
+    {
+        "nome": "PUMA TRIPLE",
+        "descricao": "TRIPLA AMEAÇA NOS PÉS!",
+        "preco": 589.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "PUMA",
+        "id": "P9375"
+    },
+    {
+        "nome": "ADIDAS DAME 8",
+        "descricao": "QUEM PRECISA DE BUZZER BEATER QUANDO SE TEM CONTROLE TOTAL?",
+        "preco": 699.9,
+        "estoque": 10,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "ADIDAS",
+        "id": "P1748"
+    },
+    {
+        "nome": "ADIDAS HARDEN VOL. 7",
+        "descricao": "DRIBLES MALANDROS COM ESTILO DE MVP!",
+        "preco": 749.9,
+        "estoque": 13,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "ADIDAS",
+        "id": "P2545"
+    },
+    {
+        "nome": "ADIDAS TRAE YOUNG 2.0",
+        "descricao": "PARA QUEM DESAFIA A LÓGICA DA QUADRA!",
+        "preco": 719.9,
+        "estoque": 5,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "ADIDAS",
+        "id": "P7287"
+    },
+    {
+        "nome": "ADIDAS PRO BOUNCE 2019",
+        "descricao": "UM SALTO QUE PARECE TER MOLA NA ALMA!",
+        "preco": 629.9,
+        "estoque": 6,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "ADIDAS",
+        "id": "P9521"
+    },
+    {
+        "nome": "ADIDAS STREETBALL II",
+        "descricao": "ESTILO URBANO PRA JOGAR NO ASFALTO E NA MEMÓRIA!",
+        "preco": 599.9,
+        "estoque": 7,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "ADIDAS",
+        "id": "P5121"
+    },
+    {
+        "nome": "CURRY FLOW 10",
+        "descricao": "FLUTUE NA QUADRA COMO O MAIOR ARREMESSADOR DA HISTÓRIA!",
+        "preco": 799.9,
+        "estoque": 30,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "UNDER ARMOUR",
+        "id": "P1908"
+    },
+    {
+        "nome": "CURRY 1 RETRO",
+        "descricao": "O INÍCIO DE UMA LENDA – SIMPLES, ICÔNICO E MORTAL!",
+        "preco": 729.9,
+        "estoque": 30,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "UNDER ARMOUR",
+        "id": "P4550"
+    },
+    {
+        "nome": "CURRY FLOW 9",
+        "descricao": "AGILIDADE INEXPLICÁVEL, TRAÇÃO SOBRENATURAL!",
+        "preco": 749.9,
+        "estoque": 30,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "UNDER ARMOUR",
+        "id": "P2737"
+    },
+    {
+        "nome": "CURRY 8",
+        "descricao": "LEVEZA, PRECISÃO E ESTILO EM CADA ARREMESSO!",
+        "preco": 719.9,
+        "estoque": 30,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "UNDER ARMOUR",
+        "id": "P1604"
+    },
+    {
+        "nome": "CURRY 7",
+        "descricao": "ANTES DE SER LENDA, FOI TRABALHO – E ESSE TÊNIS PROVA ISSO!",
+        "preco": 689.9,
+        "estoque": 30,
+        "categoria": "BASQUETE",
+        "subcategoria": "TÊNIS DE BASQUETE",
+        "subsubcategoria": "UNDER ARMOUR",
+        "id": "P2502"
+    },
+    {
+        "nome": "REGATA TRAE YOUNG ATLANTA - #11",
+        "descricao": "GELANDO DEFESAS COM ARREMESSOS QUENTES DO GEORGIA DOME!",
+        "preco": 219.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "ATLANTA HAWKS",
+        "id": "P2268"
+    },
+    {
+        "nome": "REGATA DEJOUNTE MURRAY - #5",
+        "descricao": "A ELEGÂNCIA DO ROUBO COM O ESTILO DE QUEM NASCEU PRA DOMINAR!",
+        "preco": 219.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "ATLANTA HAWKS",
+        "id": "P9555"
+    },
+    {
+        "nome": "REGATA JAYSON TATUM - #0",
+        "descricao": "O PRÍNCIPE DE BOSTON COM UM VERDE QUE IMPÕE RESPEITO!",
+        "preco": 229.9,
+        "estoque": 13,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "BOSTON CELTICS",
+        "id": "P1239"
+    },
+    {
+        "nome": "REGATA JAYLEN BROWN BOSTON - #7",
+        "descricao": "ATITUDE, FORÇA E UM ARROGANTE BOM GOSTO NO MANTO CELTA!",
+        "preco": 229.9,
+        "estoque": 14,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "BOSTON CELTICS",
+        "id": "P3228"
+    },
+    {
+        "nome": "REGATA MIKAL BRIDGES - #1",
+        "descricao": "A MURALHA DO BROOKLYN, COM O CHARME DO BASQUETE MODERNO!",
+        "preco": 209.9,
+        "estoque": 11,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "BROOKLYN NETS",
+        "id": "P4911"
+    },
+    {
+        "nome": "REGATA CAM THOMAS - #24",
+        "descricao": "ARREMESSOS INSANOS DIRETO DO SUBWAY PARA AS REDES!",
+        "preco": 209.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "BROOKLYN NETS",
+        "id": "P2398"
+    },
+    {
+        "nome": "REGATA LAMELO BALL - #1",
+        "descricao": "O ESTILO MAIS LOUCO DA NBA EM UM MANTO TÃO RARO QUANTO UM BUZZ!",
+        "preco": 199.9,
+        "estoque": 11,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "CHARLOTTE HORNETS",
+        "id": "P7864"
+    },
+    {
+        "nome": "REGATA BRANDON MILLER - #24",
+        "descricao": "A PROMESSA DO SUL COM UM LOOK DE MVP ANTECIPADO!",
+        "preco": 199.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "CHARLOTTE HORNETS",
+        "id": "P2813"
+    },
+    {
+        "nome": "REGATA DEMAR DEROZAN - #11",
+        "descricao": "O DOMÍNIO CLÁSSICO COM O SANGUE FRIO DE QUEM VESTE VERMELHO!",
+        "preco": 219.9,
+        "estoque": 13,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "CHICAGO BULLS",
+        "id": "P2945"
+    },
+    {
+        "nome": "REGATA ZACH LAVINE - #8",
+        "descricao": "ESTILO, ELEVADOR LIGADO E DUNKS PRA FAZER HISTÓRIA!",
+        "preco": 219.9,
+        "estoque": 11,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "CHICAGO BULLS",
+        "id": "P1218"
+    },
+    {
+        "nome": "REGATA DARIUS GARLAND - #10",
+        "descricao": "VISÃO DE JOGO E AGILIDADE TRANSFORMADOS EM ESTILO!",
+        "preco": 259.9,
+        "estoque": 11,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "CLEVELAND CAVALIERS",
+        "id": "P6855"
+    },
+    {
+        "nome": "REGATA DONOVAN MITCHELL - #45",
+        "descricao": "EXPLOSÃO, ARTE E MUITA CONFIANÇA. REGATA SPIDA NA ÁREA!",
+        "preco": 259.9,
+        "estoque": 11,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "CLEVELAND CAVALIERS",
+        "id": "P3268"
+    },
+    {
+        "nome": "REGATA LUKA DONČIĆ - #77",
+        "descricao": "MAGIA ESLOVENA QUE FAZ A QUADRA PARECER UM TABULEIRO!",
+        "preco": 259.9,
+        "estoque": 11,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "DALLAS MAVERICKS",
+        "id": "P2057"
+    },
+    {
+        "nome": "REGATA KYRIE IRVING - #11",
+        "descricao": "DRIBLES HIPNÓTICOS, ESTILO ÚNICO E UM MANTO À ALTURA!",
+        "preco": 259.9,
+        "estoque": 11,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "DALLAS MAVERICKS",
+        "id": "P2528"
+    },
+    {
+        "nome": "REGATA NIKOLA JOKIĆ - #15",
+        "descricao": "VISÃO, TÉCNICA E UMA INTELIGÊNCIA QUE CABE EM UM ÚNICO MANTO!",
+        "preco": 259.9,
+        "estoque": 15,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "DENVER NUGGETS",
+        "id": "P2096"
+    },
+    {
+        "nome": "REGATA JAMAL MURRAY - #27",
+        "descricao": "CLUTCH NA VEIA! UMA REGATA PRA QUEM NUNCA TREMEM NO FIM DO JOGO!",
+        "preco": 259.9,
+        "estoque": 11,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "DENVER NUGGETS",
+        "id": "P2028"
+    },
+    {
+        "nome": "REGATA CADE CUNNINGHAM - #2",
+        "descricao": "O FUTURO CHEGOU EM DETROIT — E A SUA REGATA TAMBÉM!",
+        "preco": 259.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "DETROIT PISTONS",
+        "id": "P2632"
+    },
+    {
+        "nome": "REGATA JADEN IVEY #23",
+        "descricao": "JUVENTUDE, IMPULSO E ESTILO EM UMA REGATA COM DNA DE RECONSTRUÇÃO!",
+        "preco": 259.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "DETROIT PISTONS",
+        "id": "P3363"
+    },
+    {
+        "nome": "REGATA STEPHEN CURRY - #30",
+        "descricao": "MIRA LETAL E MAGIA DOS 3 PONTOS EM UMA REGATA LENDÁRIA!",
+        "preco": 299.9,
+        "estoque": 18,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "GOLDEN STATE WARRIORS",
+        "id": "P3311"
+    },
+    {
+        "nome": "REGATA KLAY THOMPSON - #11",
+        "descricao": "ESTILO E PRECISÃO PARA QUEM JOGA COM CLASSE!",
+        "preco": 289.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "GOLDEN STATE WARRIORS",
+        "id": "P2184"
+    },
+    {
+        "nome": "REGATA JALEN GREEN - #4",
+        "descricao": "EXPLOSÃO E HABILIDADE QUE FAZEM O JOGO PEGAR FOGO!",
+        "preco": 289.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "HOUSTON ROCKETS",
+        "id": "P8367"
+    },
+    {
+        "nome": "REGATA ALPEREN SENGUN - #28",
+        "descricao": "O GÊNIO DOS POSTS E PASSES MÁGICOS EM UMA REGATA!",
+        "preco": 279.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "HOUSTON ROCKETS",
+        "id": "P2372"
+    },
+    {
+        "nome": "REGATA TYRESE HALIBURTON - #0",
+        "descricao": "VISÃO DE JOGO E CARISMA REUNIDOS NUM MANTO ESTILOSO!",
+        "preco": 299.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "INDIANA PACERS",
+        "id": "P2168"
+    },
+    {
+        "nome": "REGATA PASCAL SIAKAM - #43",
+        "descricao": "DO CONGO PARA AS QUADRAS COM DOMÍNIO E ELEGÂNCIA!",
+        "preco": 289.9,
+        "estoque": 13,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "INDIANA PACERS",
+        "id": "P8319"
+    },
+    {
+        "nome": "REGATA KAWHI LEONARD - #2",
+        "descricao": "SILENCIOSO, CIRÚRGICO, LETAL — PURA EFICIÊNCIA EM TECIDO!",
+        "preco": 309.9,
+        "estoque": 17,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "LOS ANGELES CLIPPERS",
+        "id": "P2400"
+    },
+    {
+        "nome": "REGATA PAUL GEORGE - #13",
+        "descricao": "EQUILÍBRIO ENTRE DEFESA E ESTILO EM UM MANTO DE RESPEITO!",
+        "preco": 299.9,
+        "estoque": 14,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "LOS ANGELES CLIPPERS",
+        "id": "P8190"
+    },
+    {
+        "nome": "REGATA LEBRON JAMES - #23",
+        "descricao": "O REI EM TECIDO REAL — AUTORIDADE E GLÓRIA EM UMA PEÇA!",
+        "preco": 349.9,
+        "estoque": 23,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "LOS ANGELES LAKERS",
+        "id": "P2489"
+    },
+    {
+        "nome": "REGATA ANTHONY DAVIS - #3",
+        "descricao": "DOMÍNIO DAS DUAS TABELAS COM ESTILO DE CAMPEÃO!",
+        "preco": 299.9,
+        "estoque": 3,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "LOS ANGELES LAKERS",
+        "id": "P2346"
+    },
+    {
+        "nome": "REGATA JA MORANT - #12",
+        "descricao": "ALTITUDE, ADRENALINA E DRIBLES QUE DESAFIAM A GRAVIDADE!",
+        "preco": 299.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "MEMPHIS GRIZZLIES",
+        "id": "P1759"
+    },
+    {
+        "nome": "REGATA JAREN JACKSON JR - #13",
+        "descricao": "O BLOQUEIO VIROU ESTILO — DEFESA COM PERSONALIDADE!",
+        "preco": 279.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "MEMPHIS GRIZZLIES",
+        "id": "P3220"
+    },
+    {
+        "nome": "REGATA JIMMY BUTLER - #22",
+        "descricao": "FÚRIA COMPETITIVA E ESTILO SOB PRESSÃO — É O PLAYOFF MODE!",
+        "preco": 309.9,
+        "estoque": 22,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "MIAMI HEAT",
+        "id": "P2879"
+    },
+    {
+        "nome": "REGATA BAM ADEBAYO - #13",
+        "descricao": "PIVÔ MODERNO COM ALMA CLÁSSICA — DOMÍNIO NO GARRAFÃO!",
+        "preco": 289.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "MIAMI HEAT",
+        "id": "P3647"
+    },
+    {
+        "nome": "REGATA GIANNIS ANTETOKOUNMPO - #34",
+        "descricao": "O FREAK GREGO EM SUA FORMA MAIS ESTILOSA!",
+        "preco": 339.9,
+        "estoque": 41,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "MILWAUKEE BUCKS",
+        "id": "P1136"
+    },
+    {
+        "nome": "REGATA DAMIAN LILLARD - #0",
+        "descricao": "LOGO LILLARD NA ÁREA? SEGURA O RANGE INFINITO!",
+        "preco": 309.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "MILWAUKEE BUCKS",
+        "id": "P3095"
+    },
+    {
+        "nome": "REGATA ANTHONY EDWARDS - #5",
+        "descricao": "EXPLOSÃO E SHOW TIME EM CADA ENTERRADA!",
+        "preco": 299.9,
+        "estoque": 21,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "MINNESOTA TIMBERWOLVES",
+        "id": "P7435"
+    },
+    {
+        "nome": "REGATA KARL-ANTHONY TOWNS - #32",
+        "descricao": "O BIG MAN MODERNO VESTE COM CLASSE E PRECISÃO!",
+        "preco": 289.9,
+        "estoque": 14,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "MINNESOTA TIMBERWOLVES",
+        "id": "P5211"
+    },
+    {
+        "nome": "REGATA ZION WILLIAMSON - #1",
+        "descricao": "FORÇA BRUTA E VELOCIDADE EM UMA REGATA EXPLOSIVA!",
+        "preco": 299.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "NEW ORLEANS PELICANS",
+        "id": "P1452"
+    },
+    {
+        "nome": "REGATA BRANDON INGRAM - #14",
+        "descricao": "FLUIDEZ E ESTILO COM A ELEGÂNCIA DE UM SWINGMAN!",
+        "preco": 289.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "NEW ORLEANS PELICANS",
+        "id": "P2445"
+    },
+    {
+        "nome": "REGATA JALEN BRUNSON - #11",
+        "descricao": "O GENERAL DE NY COMANDA O JOGO E O ESTILO!",
+        "preco": 319.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "NEW YORK KNICKS",
+        "id": "P4462"
+    },
+    {
+        "nome": "REGATA JULIUS RANDLE - #30",
+        "descricao": "PODER FÍSICO E CONFORTO URBANO EM UMA SÓ REGATA!",
+        "preco": 289.9,
+        "estoque": 15,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "NEW YORK KNICKS",
+        "id": "P3785"
+    },
+    {
+        "nome": "REGATA SHAI GILGEOUS-ALEXANDER - #2",
+        "descricao": "\"FLUXO, MOVIMENTO E MUITO GOTEJO — É SGA NA ÁREA!",
+        "preco": 329.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "OKLAHOMA CITY THUNDER",
+        "id": "P1260"
+    },
+    {
+        "nome": "REGATA CHET HOLMGREN - #7",
+        "descricao": "FINO, ÁGIL E LETAL — UM UNICÓRNIO EM FORMA DE REGATA!",
+        "preco": 299.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "OKLAHOMA CITY THUNDER",
+        "id": "P1195"
+    },
+    {
+        "nome": "REGATA PAOLO BANCHERO - #5",
+        "descricao": "O MÁGICO ITALIANO CHEGOU COM FORÇA E ESTILO!",
+        "preco": 299.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "ORLANDO MAGIC",
+        "id": "P9331"
+    },
+    {
+        "nome": "REGATA FRANZ WAGNER - #22",
+        "descricao": "ALEMANHA REPRESENTADA COM CLASSE EM SOLO AMERICANO!",
+        "preco": 289.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "ORLANDO MAGIC",
+        "id": "P1310"
+    },
+    {
+        "nome": "REGATA JOEL EMBIID - #21",
+        "descricao": "O CAMARONÊS DOMINANTE NÃO SÓ FAZ CESTAS — ELE IMPÕE ESTILO!",
+        "preco": 339.9,
+        "estoque": 13,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "PHILADELPHIA 76ERS",
+        "id": "P1781"
+    },
+    {
+        "nome": "REGATA TYRESE MAXEY - #0",
+        "descricao": "VELOCIDADE, ALEGRIA E UM ARREMESSO DE RESPEITO!",
+        "preco": 299.94,
+        "estoque": 14,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "PHILADELPHIA 76ERS",
+        "id": "P3326"
+    },
+    {
+        "nome": "REGATA KEVIN DURANT - #35",
+        "descricao": "O SNIPER SILENCIOSO TRANSFORMADO EM MANTO OFICIAL!",
+        "preco": 349.9,
+        "estoque": 16,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "PHOENIX SUNS",
+        "id": "P1829"
+    },
+    {
+        "nome": "REGATA DEVIN BOOKER - #1",
+        "descricao": "O ARTILHEIRO DO DESERTO É TÃO LETAL QUANTO ESTILOSO!",
+        "preco": 329.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "PHOENIX SUNS",
+        "id": "P1419"
+    },
+    {
+        "nome": "REGATA DAMIAN LILLARD - #0",
+        "descricao": "O CHEFE DE PORTLAND, COM ARREMESSOS QUE SÃO FOGO PURPURA!",
+        "preco": 339.9,
+        "estoque": 14,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "PORTLAND TRAIL BLAZERS",
+        "id": "P3165"
+    },
+    {
+        "nome": "REGATA ANFERNEE SIMONS - #1",
+        "descricao": "JOVEM E ÁGIL, PRONTO PRA QUEIMAR A QUADRA!",
+        "preco": 299.9,
+        "estoque": 14,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "PORTLAND TRAIL BLAZERS",
+        "id": "P1381"
+    },
+    {
+        "nome": "REGATA DE'ARRON FOX - #5",
+        "descricao": "RAPIDEZ E CORAGEM NUMA REGATA REALEZA!",
+        "preco": 319.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "SACRAMENTO KINGS",
+        "id": "P2283"
+    },
+    {
+        "nome": "REGATA KEVIN HUERTER - #9",
+        "descricao": "O TIRO CERTO DA CALIFÓRNIA AGORA EM REGATA!",
+        "preco": 299.9,
+        "estoque": 15,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "SACRAMENTO KINGS",
+        "id": "P1304"
+    },
+    {
+        "nome": "REGATA DEJOUNTE MURRAY - #5",
+        "descricao": "O COWBOY DA QUADRA QUE NUNCA FALHA NO TIRO!",
+        "preco": 329.9,
+        "estoque": 13,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "SAN ANTONIO SPURS",
+        "id": "P3225"
+    },
+    {
+        "nome": "REGATA KELDON JOHNSON - #3",
+        "descricao": "JOVEM, BRILHANTE E PRONTO PRA DOMINAR!",
+        "preco": 299.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "SAN ANTONIO SPURS",
+        "id": "P2532"
+    },
+    {
+        "nome": "REGATA SCOTTIE BARNES - #4",
+        "descricao": "FORÇA CANADENSE E ESTILO IMBATÍVEL!",
+        "preco": 319.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "TORONTO RAPTORS",
+        "id": "P1741"
+    },
+    {
+        "nome": "REGATA OG ANUNOBY - #3",
+        "descricao": "DEFESA DE FERRO E ATAQUE ACERTADO — O MELHOR DOS RAPTORS!",
+        "preco": 299.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "TORONTO RAPTORS",
+        "id": "P1232"
+    },
+    {
+        "nome": "REGATA DONOVAN MITCHELL - #45",
+        "descricao": "O SOLO DE JAZZ MAIS QUENTE DA NBA, AGORA EM REGATA",
+        "preco": 329.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "UTAH JAZZ",
+        "id": "P3130"
+    },
+    {
+        "nome": "REGATA JORDAN CLARKSON - #00",
+        "descricao": "A ENERGIA QUE IMPULSIONA O TIME, AGORA PRA VOCÊ!",
+        "preco": 299.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "UTAH JAZZ",
+        "id": "P3185"
+    },
+    {
+        "nome": "REGATA BRADLEY BEAL - #3",
+        "descricao": "O MAGO DOS ARREMESSOS EM UM MANTO ENCANTADO!",
+        "preco": 339.9,
+        "estoque": 20,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "WASHINGTON WIZARDS",
+        "id": "P3011"
+    },
+    {
+        "nome": "REGATA KYLE KUZMA - #33",
+        "descricao": "VERSATILIDADE E ESTILO PRA ARRASAR NA QUADRA!",
+        "preco": 299.9,
+        "estoque": 11,
+        "categoria": "BASQUETE",
+        "subcategoria": "REGATAS DE TIMES DA NBA",
+        "subsubcategoria": "WASHINGTON WIZARDS",
+        "id": "P7659"
+    },
+    {
+        "nome": "BOLA DE BASQUETE NIKE ELITE CHAMPIONSHIP",
+        "descricao": "PRECISÃO MILIMÉTRICA E PEGADA DOS DEUSES. ESSA É A BOLA QUE FAZ OS AROS TREMEREM!",
+        "preco": 399.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "BOLAS DE BASQUETE",
+        "subsubcategoria": "NIKE",
+        "id": "P5394"
+    },
+    {
+        "nome": "BOLA DE BASQUETE ADIDAS PRO CONTROL",
+        "descricao": "DOMINE O JOGO COM ESTILO E CONTROLE CIRÚRGICO. A QUADRA VAI TE OBEDECER!",
+        "preco": 379.9,
+        "estoque": 8,
+        "categoria": "BASQUETE",
+        "subcategoria": "BOLAS DE BASQUETE",
+        "subsubcategoria": "ADIDAS",
+        "id": "P3195"
+    },
+    {
+        "nome": "BOLA DE BASQUETE WILSON EVOLUTION",
+        "descricao": "A FAVORITA DOS JOGOS SÉRIOS! TOQUE SUAVE, VOO LETAL!",
+        "preco": 409.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "BOLAS DE BASQUETE",
+        "subsubcategoria": "WILSON",
+        "id": "P1932"
+    },
+    {
+        "nome": "BOLA DE BASQUETE SPALDING LEGACY TF-1000",
+        "descricao": "CLÁSSICA, RAIZ E COM HISTÓRIA! A CADA QUILATE DE COURO, UM ARREMESSO LENDÁRIO",
+        "preco": 429.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "BOLAS DE BASQUETE",
+        "subsubcategoria": "SPALDING",
+        "id": "P1773"
+    },
+    {
+        "nome": "BOLA DE BASQUETE PUMA GRIP CONTROL",
+        "descricao": "GRUDA NA MÃO E VAI PRO ARO COMO UM FURACÃO!",
+        "preco": 359.9,
+        "estoque": 10,
+        "categoria": "BASQUETE",
+        "subcategoria": "BOLAS DE BASQUETE",
+        "subsubcategoria": "PUMA",
+        "id": "P2960"
+    },
+    {
+        "nome": "BOLA DE BASQUETE MOLTEN BGG7X FIBA",
+        "descricao": "A OFICIAL DOS TORNEIOS INTERNACIONAIS. PRECISÃO JAPONESA, ESTILO GLOBAL!",
+        "preco": 449.9,
+        "estoque": 12,
+        "categoria": "BASQUETE",
+        "subcategoria": "BOLAS DE BASQUETE",
+        "subsubcategoria": "MOLTEN",
+        "id": "P3194"
+    },
+    {
+        "nome": "RAQUETE DE TÊNIS WILSON PRO STAFF 97",
+        "descricao": "A LENDÁRIA RAQUETE DO FEDERER! CONTROLE ABSURDO E MUITO ESTILO EM QUADRA!",
+        "preco": 1299.0,
+        "estoque": 8,
+        "categoria": "TÊNIS",
+        "subcategoria": "RAQUETES",
+        "subsubcategoria": "WILSON",
+        "id": "P3025"
+    },
+    {
+        "nome": "RAQUETE DE TÊNIS HEAD GRAPHENE 360+ SPEED MP",
+        "descricao": "A RAQUETE QUE O DJOKOVIC USA PRA FAZER MÁGICA! VELOCIDADE + PRECISÃO = CAOS PRO ADVERSÁRIO!",
+        "preco": 1399.9,
+        "estoque": 10,
+        "categoria": "TÊNIS",
+        "subcategoria": "RAQUETES",
+        "subsubcategoria": "HEAD",
+        "id": "P3430"
+    },
+    {
+        "nome": "RAQUETE DE TÊNIS BABOLAT PURE DRIVE",
+        "descricao": "QUER DAR NA BOLA COM FORÇA DE VERDADE? ESSA É A ESCOLHA DOS BRABOS!",
+        "preco": 1249.0,
+        "estoque": 4,
+        "categoria": "TÊNIS",
+        "subcategoria": "RAQUETES",
+        "subsubcategoria": "BABOLAT",
+        "id": "P5833"
+    },
+    {
+        "nome": "RAQUETE DE TÊNIS PRINCE TOUR 100P",
+        "descricao": "CONTROLE FINO, ESTILO DE PRÍNCIPE E UM SWING QUE ATÉ O ADVERSÁRIO VAI APLAUDIR!",
+        "preco": 1149.0,
+        "estoque": 5,
+        "categoria": "TÊNIS",
+        "subcategoria": "RAQUETES",
+        "subsubcategoria": "PRINCE",
+        "id": "P1285"
+    },
+    {
+        "nome": "RAQUETE DE TÊNIS YONEX EZONE 100",
+        "descricao": "QUER JOGAR MACIO E EXPLODIR A BOLA AO MESMO TEMPO? A YONEX TE DÁ ASAS (SEM SER ENERGÉTICO)!",
+        "preco": 1349.0,
+        "estoque": 7,
+        "categoria": "TÊNIS",
+        "subcategoria": "RAQUETES",
+        "subsubcategoria": "YONEX",
+        "id": "P3004"
+    },
+    {
+        "nome": "RAQUETE DE TÊNIS DUNLOP FX 500",
+        "descricao": "POTÊNCIA DE CANHÃO, ESTABILIDADE DE TANQUE. PRA QUEM JOGA SÉRIO (OU FINGE BEM)!",
+        "preco": 1199.0,
+        "estoque": 7,
+        "categoria": "TÊNIS",
+        "subcategoria": "RAQUETES",
+        "subsubcategoria": "DUNLOP",
+        "id": "P2920"
+    },
+    {
+        "nome": "RAQUETE DE TÊNIS TECNIFIBRE TF40 305",
+        "descricao": "PRECISÃO CIRÚRGICA PRA VOCÊ OPERAR NO FUNDO DE QUADRA COMO UM VERDADEIRO DOUTOR DO TÊNIS!",
+        "preco": 1390.0,
+        "estoque": 6,
+        "categoria": "TÊNIS",
+        "subcategoria": "RAQUETES",
+        "subsubcategoria": "TECNIFIBRE",
+        "id": "P1219"
+    },
+    {
+        "nome": "RAQUETE DE TÊNIS VOLKL V-FEEL 8",
+        "descricao": "TECNOLOGIA ALEMÃ PRA QUEM QUER BATER NA BOLA SEM SENTIR NEM A VIBRAÇÃO DO GONG!",
+        "preco": 1099.0,
+        "estoque": 9,
+        "categoria": "TÊNIS",
+        "subcategoria": "RAQUETES",
+        "subsubcategoria": "VOLKL",
+        "id": "P1984"
+    },
+    {
+        "nome": "RAQUETE DE TÊNIS ARTENGO TR990",
+        "descricao": "QUER SUBIR DE NÍVEL SEM QUEBRAR O COFRINHO? ESSA RAQUETE É A CHAVE DO UP!",
+        "preco": 699.0,
+        "estoque": 8,
+        "categoria": "TÊNIS",
+        "subcategoria": "RAQUETES",
+        "subsubcategoria": "ARTENGO",
+        "id": "P1576"
+    },
+    {
+        "nome": "RAQUETE DE TÊNIS PROKENNEX KI 5",
+        "descricao": "SUA MÃO MERECE CONFORTO! TECNOLOGIA KINETIC PRA NÃO DEIXAR VOCÊ VIRAR O HULK DE TANTA TENDINITE!",
+        "preco": 1049.0,
+        "estoque": 5,
+        "categoria": "TÊNIS",
+        "subcategoria": "RAQUETES",
+        "subsubcategoria": "PROKENNEX",
+        "id": "P1702"
+    },
+    {
+        "nome": "CAMISETA DE TÊNIS NIKE COURT DRI-FIT",
+        "descricao": "SECA O SUOR MAIS RÁPIDO DO QUE VOCÊ PEDE O DESAFIO! ESTILO E DESEMPENHO NUM SÓ SWING!",
+        "preco": 179.9,
+        "estoque": 21,
+        "categoria": "TÊNIS",
+        "subcategoria": "ROUPAS",
+        "subsubcategoria": "NIKE",
+        "id": "P1284"
+    },
+    {
+        "nome": "SHORT DE TÊNIS ADIDAS CLUB 3-STRIPES",
+        "descricao": "LEVEZA PRA CORRER NA QUADRA COMO UM NINJA! E COM AS 3 LISTRAS PRA DIZER: EU SOU O CARA!",
+        "preco": 149.9,
+        "estoque": 16,
+        "categoria": "TÊNIS",
+        "subcategoria": "ROUPAS",
+        "subsubcategoria": "ADIDAS",
+        "id": "P2314"
+    },
+    {
+        "nome": "SAIA DE TÊNIS FILA BASICA VINTAGE",
+        "descricao": "CONFORTO E GLAMOUR PRA DOMINAR A QUADRA COM ELEGÂNCIA E MUITO FOREHAND!",
+        "preco": 139.9,
+        "estoque": 12,
+        "categoria": "TÊNIS",
+        "subcategoria": "ROUPAS",
+        "subsubcategoria": "FILA",
+        "id": "P2248"
+    },
+    {
+        "nome": "CAMISETA BABOLAT PLAY CREW",
+        "descricao": "CAMISA QUE RESPIRA MAIS QUE JOGADOR DE TIE-BREAK! LEVE E ESTILOSA PRA METER AQUELE WINNER!",
+        "preco": 129.9,
+        "estoque": 14,
+        "categoria": "TÊNIS",
+        "subcategoria": "ROUPAS",
+        "subsubcategoria": "BABOLAT",
+        "id": "P2815"
+    },
+    {
+        "nome": "BLUSA DE TÊNIS ASICS COURT SS",
+        "descricao": "BLUSA PRA QUEM LEVA O JOGO A SÉRIO... MAS O LOOK TAMBÉM! FLEXÍVEL, LEVE E BONITA!",
+        "preco": 159.9,
+        "estoque": 12,
+        "categoria": "TÊNIS",
+        "subcategoria": "ROUPAS",
+        "subsubcategoria": "ASICS",
+        "id": "P2992"
+    },
+    {
+        "nome": "SHORT SAIA NIKE COURT VICTORY",
+        "descricao": "MOVIMENTO LIVRE + LOOK DE CAMPEÃ! DOMINE A QUADRA COMO UMA SERENA EM DIA DE FINAL!",
+        "preco": 189.9,
+        "estoque": 7,
+        "categoria": "TÊNIS",
+        "subcategoria": "ROUPAS",
+        "subsubcategoria": "NIKE",
+        "id": "P2318"
+    },
+    {
+        "nome": "REGATA DE TÊNIS ADIDAS PRIMEBLUE",
+        "descricao": "SUSTENTÁVEL E BONITA? TEMOS! REGATA FEITA COM PLÁSTICO RECICLADO PRA VOCÊ JOGAR E SALVAR O MUNDO!",
+        "preco": 139.9,
+        "estoque": 8,
+        "categoria": "TÊNIS",
+        "subcategoria": "ROUPAS",
+        "subsubcategoria": "ADIDAS",
+        "id": "P2966"
+    },
+    {
+        "nome": "JAQUETA FILA TÊNIS CLASSIC",
+        "descricao": "PRA CHEGAR NA QUADRA COM PRESENÇA DE CAMPEÃO DOS ANOS 80! RETRÔ, QUENTE E CLASSUDA!",
+        "preco": 229.9,
+        "estoque": 4,
+        "categoria": "TÊNIS",
+        "subcategoria": "ROUPAS",
+        "subsubcategoria": "FILA",
+        "id": "P1677"
+    },
+    {
+        "nome": "CAMISETA ARTENGO DRY 500",
+        "descricao": "CONFORTO SIMPLES, PREÇO HONESTO E AQUELE VISUAL LIMPO PRA FAZER ESTRAGO NA REDE!",
+        "preco": 89.9,
+        "estoque": 12,
+        "categoria": "TÊNIS",
+        "subcategoria": "ROUPAS",
+        "subsubcategoria": "ARTENGO",
+        "id": "P9167"
+    },
+    {
+        "nome": "MOLETOM BABOLAT CORE CLUB",
+        "descricao": "ESQUENTA ATÉ A MÃO PRA AQUELE SAQUE NO GELO! ESTILO E CONFORTO PRA ANTES E DEPOIS DA PARTIDA!",
+        "preco": 249.9,
+        "estoque": 5,
+        "categoria": "TÊNIS",
+        "subcategoria": "ROUPAS",
+        "subsubcategoria": "BABOLAT",
+        "id": "P2340"
+    },
+    {
+        "nome": "BONÉ NIKE COURT HERITAGE",
+        "descricao": "PRA FAZER AQUELE LOOK DE CAMPEÃO SEM DEIXAR O SOL ATRAPALHAR O OLHO DO SAQUE!",
+        "preco": 99.9,
+        "estoque": 12,
+        "categoria": "TÊNIS",
+        "subcategoria": "ACESSÓRIOS",
+        "subsubcategoria": "NIKE",
+        "id": "P2466"
+    },
+    {
+        "nome": "ANTIVIBRADOR WILSON PRO FEATHER",
+        "descricao": "CANSA DE SENTIR A RAQUETE TREMER MAIS QUE TELEFONE VELHO? TACA ESSE BICHINHO E VEM PRO JOGO",
+        "preco": 39.9,
+        "estoque": 30,
+        "categoria": "TÊNIS",
+        "subcategoria": "ACESSÓRIOS",
+        "subsubcategoria": "WILSON",
+        "id": "P2664"
+    },
+    {
+        "nome": "OVERGRIP BABOLAT PRO TOUR",
+        "descricao": "PEGADA SECA E FIRME PRA NÃO ESCAPAR A RAQUETE NAQUELE WINNER MATADOR!",
+        "preco": 59.9,
+        "estoque": 12,
+        "categoria": "TÊNIS",
+        "subcategoria": "ACESSÓRIOS",
+        "subsubcategoria": "BABOLAT",
+        "id": "P1862"
+    },
+    {
+        "nome": "CORDA DE TÊNIS LUXILON ALU POWER",
+        "descricao": "A CORDA DOS PROS! EXPLODE NO SPIN, SEGURA NO CONTROLE E FAZ A BOLA GRITAR NA LINHA!",
+        "preco": 109.9,
+        "estoque": 13,
+        "categoria": "TÊNIS",
+        "subcategoria": "ACESSÓRIOS",
+        "subsubcategoria": "LUXILON",
+        "id": "P3360"
+    },
+    {
+        "nome": "MUNHEQUEIRA NIKE SWOOSH DUPLA",
+        "descricao": "ABSORVE SUOR, DÁ ESTILO E AINDA PARECE QUE VOCÊ JOGA MUITO (MESMO QUE NÃO JOGUE)!",
+        "preco": 44.9,
+        "estoque": 22,
+        "categoria": "TÊNIS",
+        "subcategoria": "ACESSÓRIOS",
+        "subsubcategoria": "NIKE",
+        "id": "P3005"
+    },
+    {
+        "nome": "BOLSA DE TÊNIS HEAD TOUR TEAM BACKPACK",
+        "descricao": "CABE TUDO: RAQUETE, ROUPA, ATITUDE E UM MONTE DE VONTADE DE GANHAR!",
+        "preco": 319.9,
+        "estoque": 12,
+        "categoria": "TÊNIS",
+        "subcategoria": "ACESSÓRIOS",
+        "subsubcategoria": "HEAD",
+        "id": "P9433"
+    },
+    {
+        "nome": "PORTA BOLAS ARTENGO 4 UND",
+        "descricao": "QUANDO VOCÊ NÃO TEM BOLSO, MAS TEM ESTILO! LEVE SEU JOGO NAS MÃOS (LITERALMENTE)!",
+        "preco": 34.9,
+        "estoque": 20,
+        "categoria": "TÊNIS",
+        "subcategoria": "ACESSÓRIOS",
+        "subsubcategoria": "ARTENGO",
+        "id": "P2383"
+    }
+]
